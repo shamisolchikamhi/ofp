@@ -1,0 +1,28 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+# Ignore environment variables and secrets
+.env
+*.json
+
+# Ignore compiled files and package archives
+*.tar.gz
+*.zip
+
+# Ignore Git repository files
+.git/
+.gitignore
+
+# Ignore logs and system files
+logs/
+*.log
+.DS_Store
+
+# Ignore Cloud Function deployment artifacts
+node_modules/
+test_notebook.ipynb

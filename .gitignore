@@ -1,0 +1,10 @@
+.env
+*.ini
+_git
+.idea
+__pycache__/
+share/
+etc/
+Lib/
+.creds/
+*.bin
