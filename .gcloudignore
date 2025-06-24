@@ -8,7 +8,6 @@ env/
 .venv/
 # Ignore environment variables and secrets
 .env
-*.json
 
 # Ignore compiled files and package archives
 *.tar.gz
